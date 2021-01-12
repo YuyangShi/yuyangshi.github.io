@@ -2,6 +2,8 @@
 
 I am a 3rd year PhD student in the H. Milton Stewart School of Industrial and Systems Engineering (ISyE) at Georgia Institute of Technology. Before joining Georgia Tech, I received my B.S. degree in Mathematics and Computer Science from the School of the Gifted Young at University of Science and Technology of China (USTC).
 
+My research focuses on high dimensional statistics, data mining and machine learning. I am working with Prof. Yajun Mei and Prof. Tuo Zhao.
+
 <!---
 your comment goes here
 and here
