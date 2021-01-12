@@ -4,7 +4,9 @@ I am a 3rd year PhD student in the H. Milton Stewart School of Industrial and Sy
 
 My research focuses on high dimensional statistics, data mining and machine learning. I am working with Prof. Yajun Mei.
 
-# Research
+# Research Projects
+
+## 
 
 <!---
 your comment goes here
