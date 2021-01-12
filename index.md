@@ -6,7 +6,9 @@ My research focuses on high dimensional statistics, data mining and machine lear
 
 # Research Projects
 
-## 
+## Kernel Smoothing based Anomaly Detection Algorithm
+
+## Pivotal Estimation of Linear Discriminant in High Dimensions
 
 <!---
 your comment goes here
