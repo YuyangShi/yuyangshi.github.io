@@ -10,6 +10,8 @@ My research focuses on high dimensional statistics, data mining and machine lear
 
 ## Pivotal Estimation of Linear Discriminant in High Dimensions
 
+## Mixed Effects Envelope Models
+
 <!---
 your comment goes here
 and here
