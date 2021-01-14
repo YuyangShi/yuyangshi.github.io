@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 # About Me
 
 I am a 3rd year PhD student in the H. Milton Stewart School of Industrial and Systems Engineering (ISyE) at Georgia Institute of Technology, working with Prof. Yajun Mei. Before joining Georgia Tech, I received my B.S. degree in Mathematics and Computer Science from the School of the Gifted Young at University of Science and Technology of China (USTC).
@@ -19,9 +13,6 @@ My research focuses on high dimensional statistics, data mining and machine lear
 ## Learning to Defense by Learning to Attack
 
 ## Mixed Effects Envelope Models
-
-
-
 
 <!---
 your comment goes here
@@ -46,4 +37,3 @@ and here
   ### Support or Contact
   Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
  --->
-
